@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.a164a70b.css",
+    "main.js": "/react-portfolio/static/js/main.503966c6.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/hobbycentral.png": "/react-portfolio/static/media/hobbycentral.9baafb3d960f8a7eea38.png",
+    "static/media/hero-bg.jpeg": "/react-portfolio/static/media/hero-bg.000e1b5ff4f0b912c97f.jpeg",
+    "static/media/trov.png": "/react-portfolio/static/media/trov.fc88548fa081f407b205.png",
+    "static/media/moviecentral.png": "/react-portfolio/static/media/moviecentral.499054eb6edcfadaed20.png",
+    "static/media/weathertracker.png": "/react-portfolio/static/media/weathertracker.639246f00aeabf09e200.png",
+    "static/media/selfpic.JPG": "/react-portfolio/static/media/selfpic.15e45ea74bbe0fa0067d.JPG",
+    "static/media/passwordgenerator.png": "/react-portfolio/static/media/passwordgenerator.8d77de352a241a0d2240.png",
+    "static/media/LinkedIn_logo_initials.png": "/react-portfolio/static/media/LinkedIn_logo_initials.e9db41041d38d6fb97b4.png",
+    "static/media/github-512.webp": "/react-portfolio/static/media/github-512.01eff38eed74df9221c7.webp",
+    "index.html": "/react-portfolio/index.html",
+    "main.a164a70b.css.map": "/react-portfolio/static/css/main.a164a70b.css.map",
+    "main.503966c6.js.map": "/react-portfolio/static/js/main.503966c6.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a164a70b.css",
+    "static/js/main.503966c6.js"
+  ]
+}
